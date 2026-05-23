@@ -1,8 +1,8 @@
-# 📊 Sales & Revenue Analytics Dashboard
+#  Sales & Revenue Analytics Dashboard
 
 A multi-page Power BI dashboard built on 3,000+ sales transactions (2022–2024) covering regions, product categories, sales representatives, and monthly targets. Designed to support executive-level decision-making through interactive visualizations, KPI tracking, and drill-through analysis.
 
-## 📂 Dataset
+##  Dataset
 
 The project uses three sheets:
 
@@ -10,7 +10,7 @@ The project uses three sheets:
 - **Targets (720 rows)** – Monthly sales targets by region and category
 - **Customers (~2,100 rows)** – Customer profiles and segments
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Executive Summary
 - KPI Cards (Sales, Profit, Margin, Orders, Achievement %)
@@ -30,7 +30,7 @@ The project uses three sheets:
 - State-wise Sales Map
 - Quarterly Regional Sales
 
-## 📐 DAX Measures
+##  DAX Measures
 
 - Total Sales
 - Total Profit
@@ -41,7 +41,7 @@ The project uses three sheets:
 - MoM Growth %
 - YoY Growth %
 
-## ✨ Key Features
+##  Key Features
 
 - Time Intelligence (MoM & YoY Growth)
 - Drill-Through Navigation
@@ -57,17 +57,10 @@ The project uses three sheets:
 | Python (Pandas) | Dataset Preparation |
 | Excel | Source Data Storage |
 
-## 📁 Files
+##  Files
 
 ```text
 SalesRevenueDashboard.pbix
 Sales_Dashboard_Dataset.xlsx
 README.md
 ```
-
-## 👨‍💻 Author
-
-**Sarthak Sunil Patil**  
-M.Sc. Data Science – Savitribai Phule Pune University
-
-📧 patil.sarthak0610@gmail.com
